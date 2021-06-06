@@ -6,8 +6,8 @@ permalink: /about/
 
 I create scalable backend. I design, build, operate & sometimes rescue backend applications. Strongly believes in software principles.
 
-### More Information
-
+## More Information
+### Technical Skills : 
  - GoLang, PHP [Read and write]
  - Gin, GORM, AWS SDK, Symfony, Express (Familiar)
  - EC2, AWS Lambda, S3, IAM, AWS API Gateway, Beanstalk (Familiar), Heroku
